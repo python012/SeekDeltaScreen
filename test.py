@@ -13,7 +13,7 @@ sys.setdefaultencoding("utf-8")
 OLD_SCREENLIB_PATH = 'oldscreenlib.sqlite'
 NEW_SCREENLIB_PATH = 'newscreenlib.sqlite'
 OLD_DB_PATH = '.\\_old_DB'
-NEW_DB_PATH = 'C:\\Users\\xkqj34\\Desktop\\_1_work\\1\\Obake_Round4_20130606'
+NEW_DB_PATH = '.\\_new_DB'
 OLD_SCREEN_FILE_DIR = None
 NEW_SCREEN_FILE_DIR = None
 

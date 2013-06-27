@@ -27,29 +27,7 @@ REQUIRE_GENERATE_OLD_SCREENLIB = False
 REQUIRE_GENERATE_NEW_SCREENLIB = True
 
 scripter_dict = {
-                      "wcm348" : "Tina Xu",
-                      "mdrk73" : "Beth Du",
-                      "ghn368" : "Timmy Li",
-                      "kmw348" : "Nancy Huang",
-                      "rngp76" : "Allen Xu",
-                      "gtrm74" : "Ricky Xiong",
-                      "tdc786" : "Gao Ran",
-                      "luyi" : "Lu Yi",
-                      "thp738" : "Amilia Li",
-                      "qgxc76" : "Tracy Shen",
-                      "gwj384" : "Isabella Niu",
-                      "tmq368" : "Fang Hepeng",
-                      "nxw846" : "Vera Wei",
-                      "dbpk83" : "Li Haoyu",
-                      "xft437" : "John Qin",
-                      "kpj836" : "Jenifer Tong",
-                      "pjg867" : "Wang Xiao Chun",
-                      "rbc436" : "Hunter Yin",
-                      "nhb468" : "Liu Xiujuan",
-                      "vkcr36" : "Billy Li",
-                      "tjwm46" : "Monica Yin",
-                      "lily": "Lily Liu",
-                      "vpgb86": "Barkley Li"
+                      "yourID" : "Your Name",
                       }
 
 def initializeOldScreenlib():

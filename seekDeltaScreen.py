@@ -113,10 +113,10 @@ def seekDeltaScreen():
   # The HTML result page will be below
   # Missing Screen List
   #     tr0          No.          Screen            Script           Label         Scriptor
-  #     tr1*n           1         Settings_main  settings.js    Obake_R1    Allen Xu
+  #     tr1*n           1         ScreenA        mycode.js           Test_R1    Your Name
   # New Screen List
   #     tr2          No.          Screen            Script           Label         Scriptor
-  #     tr3*n         1         Settings_main  settings.js    Obake_R1    Allen Xu
+  #     tr3*n         1           ScreenB          mycode.js       Test_R1      Your Name
   
   if (0 == len(missing_screen_list)):
     delta_screen_page << p('No missing screen found.')
